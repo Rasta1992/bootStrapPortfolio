@@ -1,7 +1,7 @@
 body {
-	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete-texture.png");
-	margin: 0px;
-	padding: 0px;
+	background-image: url("../images/linkedinwall.jpeg");
+	height: auto;
+	max-width: 540;
 }
 
 .bodypadding {
